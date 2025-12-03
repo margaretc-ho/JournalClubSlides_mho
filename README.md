@@ -1,0 +1,4 @@
+| Journal Club Title | Reference | Date | Slides Link | 
+|---|---|---|---|
+| Avoiding common pitfalls in machine learning | [Lones 2024](https://doi.org/10.1016/j.patter.2024.101046) | 2025-Dec-02 | [SLIDES](https://github.com/margaretc-ho/JournalClubSlides_mho/blob/d1fa3dc950a4bea7be54594a758e22a5723bae48/MHo_OmicsJC_2025-12-02_AvoidingCommonPitfallsinMachineLearning_Lones2024.pdf) | 
+| Cross-phyla protein annotation by structural prediction and alignment | [Svedberg et al. 2024](https://doi.org/10.1186/s12864-023-09924-y), [Ruperti et al. 2023](https://doi.org/10.1186/s13059-023-02942-9),  | 2025-Apr-01| [SLIDES](https://github.com/margaretc-ho/JournalClubSlides_mho/blob/d1fa3dc950a4bea7be54594a758e22a5723bae48/MargaretHo_OmicsJC_Apr2025_MorphologyFinder_proteinannotbystructsimilarity.pdf) | 
